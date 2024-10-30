@@ -11,7 +11,7 @@ import time
 # Load the email template with error handling
 def load_template():
     try:
-        with open('templates/testing_template.txt', 'r') as file:
+        with open('templates/email_template.txt', 'r') as file:
             return file.read()
     except FileNotFoundError:
         print("Error: Email template not found.")
@@ -63,7 +63,7 @@ def send_email(recipient_email, subject, body, attachments=[]):
 # Main function to load CSV data and send emails
 def main():
     try:
-        data = pd.read_csv('data/temp.csv')
+        data = pd.read_csv('data/Internship_opportunities.csv')
     except FileNotFoundError:
         print("Error: CSV file not found.")
         return

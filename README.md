@@ -1,12 +1,13 @@
-<h1>📧 Internship Mailing System – Automated Bulk Emailer for Internships</h1>
-Welcome to the Internship Mailing System, a Python-based automated email solution designed to streamline the process of applying to multiple institutes, organizations, or professors for internships. This tool simplifies the hassle of personalized communication, enabling students to send customized emails with attachments (like resumes or cover letters) in just a few steps.
+# 📧 Internship Mailing System – Automated Bulk Emailer for Internships
 
-<h1>🚀 Key Features</h1>
-<b>Automated Personalized Emails</b>: Use templates to dynamically generate emails with placeholders like `{professor_name}`, `{institute_name}`, and `{department_name}`.
-<b>Bulk Email Sending</b>: Load recipient details from a CSV file and efficiently send emails to multiple institutes in one go.
-<b>Attachment Support</b>: Attach resumes, cover letters, or other documents to each email.
-<b>Error Handling</b>: Gracefully manage issues like missing files, invalid email addresses, and SMTP authentication failures.
-<b>Gmail SMTP Integration</b>: Secure email delivery through Gmail’s SMTP server with support for app passwords.
+Welcome to the **Internship Mailing System**, a Python-based automated email solution designed to streamline the process of applying to multiple institutes, organizations, or professors for internships. This tool simplifies the hassle of personalized communication, enabling students to send **customized emails with attachments** (like resumes or cover letters) in just a few steps.
+
+## 🚀 Key Features
+- **Automated Personalized Emails:** Use templates to dynamically generate emails with placeholders like `{professor_name}`, `{institute_name}`, and `{department_name}`.
+- **Bulk Email Sending:** Load recipient details from a CSV file and efficiently send emails to multiple institutes in one go.
+- **Attachment Support:** Attach resumes, cover letters, or other documents to each email.
+- **Error Handling:** Gracefully manage issues like missing files, invalid email addresses, and SMTP authentication failures.
+- **Gmail SMTP Integration:** Secure email delivery through Gmail’s SMTP server with support for app passwords.
 
 <h1>📂 Project Structure</h1>
 `credentials.py` – Store email and app password securely.

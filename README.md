@@ -10,24 +10,29 @@ Welcome to the **Internship Mailing System**, a Python-based automated email sol
 - **Gmail SMTP Integration:** Secure email delivery through Gmail’s SMTP server with support for app passwords.
 
 <h1>📂 Project Structure</h1>
-`{credentials.py}` – Store email and app password securely.
+`credentials.py` – Store email and app password securely.
 `templates/` – Contains customizable email templates.
 `attachments/` – Place resumes or other files here for sending.
 `data/` – Includes CSV files with recipient data (e.g., professor names and emails).
 `main.py` – Core script for sending personalized emails.
 
-</h1>🛠️ How It Works</h1>
-<b>Customize the Email Template</b> – Modify the template in `templates/email_template.txt` with your desired placeholders.
-<b>Prepare the CSV File</b> – Add recipient information in `data/Internship_opportunities.csv`.
-<b>Configure Credentials</b> – Add your Gmail credentials (email and app password) in `credentials.py`.
-<b>Run the Script</b> – Execute `main.py` to start sending emails.
 
-<h1>🔒 Security Note</h1>
-Use <b>Gmail App Passwords</b> for secure login.
-Avoid sharing your app password publicly; store it in `credentials.py` securely.
+## 🛠️ How It Works
+1. **Customize the Email Template:** Modify the template in `templates/testing_template.txt` with placeholders.
+2. **Prepare the CSV File:** Add recipient data (e.g., names and emails) in `data/temp.csv`.
+3. **Configure Credentials:** Add your Gmail credentials (email and app password) in `credentials.py`.
+4. **Run the Script:** Execute `main.py` to start sending emails.
 
-<h1>🎓 Use Case</h1>
-Designed for students in their 5th semester or beyond to apply for internships in academic institutes and organizations, this system helps personalize outreach and increase acceptance chances through professional communication.
+## 🔒 Security Note
+- Use **Gmail App Passwords** for secure login (see [how to create an app password](https://myaccount.google.com/apppasswords)).
+- **Do not share** your app password publicly or hard-code it in the script. Store it securely in `credentials.py`.
 
-<h1>⚠️ Disclaimer</h1>
-This tool should be used responsibly. Ensure that you comply with relevant privacy policies and email regulations (like GDPR) to avoid sending unsolicited emails.
+## 🎓 Use Case
+This system is ideal for students in their **5th semester or beyond** to apply for internships at academic institutes and organizations. By using **personalized outreach**, it improves the chances of acceptance through professional communication.
+
+## ⚠️ Disclaimer
+This tool must be used **responsibly**. Ensure compliance with relevant **privacy policies** and **email regulations** (e.g., GDPR) to avoid sending unsolicited emails.
+
+---
+
+

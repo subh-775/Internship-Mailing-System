@@ -1,4 +1,3 @@
-#A small script to test your credentials outside the main project to check whether authentication is successful.
 import smtplib
 
 SENDER_EMAIL = "Enter your email"

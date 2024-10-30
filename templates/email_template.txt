@@ -1,0 +1,13 @@
+Subject: Application for Internship Opportunity
+
+Dear Prof. {professor_name},
+
+I am [Your Name], currently in my 5th semester of Artificial Intelligence and Data Science at Chhattisgarh Swami Vivekanand Technical University, Bhilai. I am writing to express my interest in joining {institute_name} for an internship opportunity in your department.
+
+Given my passion for {department} and relevant coursework, I am eager to contribute to your research and grow under your mentorship.
+
+Thank you for your time and consideration.
+
+Best regards,  
+[Your Name]  
+[Your Contact Information]

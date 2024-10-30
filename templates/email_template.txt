@@ -1,13 +1,11 @@
-Subject: Application for Internship Opportunity
+Dear {professor_name},  
 
-Dear Prof. {professor_name},
+I hope this email finds you well. My name is [Your Name], and I am currently in the [Your semester] of my undergraduate studies in the Department of [Your Department] at [Your College Name]. With a keen interest in [Relevant Field, e.g., AI, Data Science, etc.], I am seeking an opportunity to gain hands-on experience and deepen my understanding through an internship at {institute_name}.  
 
-I am [Your Name], currently in my 5th semester of Artificial Intelligence and Data Science at Chhattisgarh Swami Vivekanand Technical University, Bhilai. I am writing to express my interest in joining {institute_name} for an internship opportunity in your department.
+I am particularly drawn to the work being done in the {department_name}, as it aligns with my academic goals and interests. Through this internship, I aim to contribute meaningfully while enhancing my knowledge under your guidance. Enclosed with this email, you will find my resume and other supporting documents for your reference.  
 
-Given my passion for {department} and relevant coursework, I am eager to contribute to your research and grow under your mentorship.
-
-Thank you for your time and consideration.
+Thank you very much for your time and consideration. I look forward to the opportunity to learn from your esteemed institute.  
 
 Best regards,  
-[Your Name]  
-[Your Contact Information]
+[Your Full Name]  
+[Your Contact Information]  

@@ -10,11 +10,7 @@ Welcome to the **Internship Mailing System**, a Python-based automated email sol
 - **Gmail SMTP Integration:** Secure email delivery through Gmail’s SMTP server with support for app passwords.
 
 <h1>📂 Project Structure</h1>
-`credentials.py` – Store email and app password securely.
-`templates/` – Contains customizable email templates.
-`attachments/` – Place resumes or other files here for sending.
-`data/` – Includes CSV files with recipient data (e.g., professor names and emails).
-`main.py` – Core script for sending personalized emails.
+├── credentials.py # Store Gmail email and app password securely ├── templates/ # Customizable email templates │ └── testing_template.txt # Sample email template ├── attachments/ # Attachments like resumes, cover letters, etc. │ └── fun.pdf # Example PDF attachment ├── data/ # CSV files with recipient data │ └── temp.csv # Example data file └── main.py # Core script for sending personalized emails
 
 
 ## 🛠️ How It Works

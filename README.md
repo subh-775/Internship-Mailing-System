@@ -18,8 +18,8 @@ Welcome to the **Internship Mailing System**, a Python-based automated email sol
 `main.py` – Core script for sending personalized emails.
 
 ## 🛠️ How It Works
-1. **Customize the Email Template:** Modify the template in `templates/testing_template.txt` with placeholders.
-2. **Prepare the CSV File:** Add recipient data (e.g., names and emails) in `data/temp.csv`.
+1. **Customize the Email Template:** Modify the template in `templates/email_template.txt` with placeholders.
+2. **Prepare the CSV File:** Add recipient data (e.g., names and emails) in `data/Internship_opportunities.csv`.
 3. **Configure Credentials:** Add your Gmail credentials (email and app password) in `credentials.py`.
 4. **Run the Script:** Execute `main.py` to start sending emails.
 

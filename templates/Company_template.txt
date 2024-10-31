@@ -1,0 +1,11 @@
+Subject: Application for AI Internship - B.Tech CSE (AI) Student
+
+Dear {Hiring Manager's Name},
+
+I am [Your Full Name], currently pursuing a B.Tech in Computer Science and Engineering with a focus in AI at [Your College Name]. As a 5th-semester student with hands-on experience in Python, machine learning, and data analysis, I am enthusiastic about applying my skills at {company_name}. I am eager to contribute to innovative projects and learn from your esteemed team.
+
+Thank you for considering my application.
+
+Best regards,
+[Your Name]
+[Your Contact Information]

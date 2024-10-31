@@ -78,15 +78,15 @@ def main():
 
         professor_name = row['User'].split(',')[0]
         institute_name = row['User']
-        department = "Computer Science and Engineering"
+        department = "Artificial Intelligence in Computer Science and Engineering"
 
         email_content = generate_email_content(professor_name, institute_name, department)
 
         send_email(
             recipient_email=row['Email'],
-            subject="An Early Testing Email for Auto mailing system",
+            subject="Request for Internship in AI and Data Science under Your Guidance",
             body=email_content,
-            attachments=['attachments/fun.pdf']
+            attachments=['attachments/fun.pdf']  # fun is a testing attachment add resume covers instead
         )
         time.sleep(2)
 

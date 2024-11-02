@@ -29,7 +29,7 @@ Welcome to the **Internship Mailing System**, a Python-based automated email sol
 
 ## 🎓 Use Case
 This system is ideal for students in their **5th semester or beyond** to apply for internships at academic institutes and organizations. By using **personalized outreach**, it improves the chances of acceptance through professional communication.
-<b>(NOT YET TESTED)</b>
+<b>(WORKING BUT NOT YET TESTED)</b>
 
 ## ⚠️ Disclaimer
 This tool must be used **responsibly**. Ensure compliance with relevant **privacy policies** and **email regulations** (e.g., GDPR) to avoid sending unsolicited emails.
